@@ -1,17 +1,11 @@
-# Welcome to MkDocs
+# Welcome to the marp documentation
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+This is the documentation and design notes of the marp project.
 
-## Commands
+## Logo
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+<figure markdown>
+  ![Official Logo](assets/logo_fit.png){ width="300" }
+  <figcaption>The official Logo of the marp project</figcaption>
+</figure>
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
