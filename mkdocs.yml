@@ -1,1 +1,7 @@
 site_name: Marp Documentation
+
+repo_name: 'marp-group'
+repo_url: 'https://github.com/marp-group/'
+
+theme:
+  name: material
