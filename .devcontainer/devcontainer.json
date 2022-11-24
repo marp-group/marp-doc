@@ -1,0 +1,9 @@
+{
+    "name": "marp-doc",
+    "dockerFile": "Dockerfile",
+    "customizations": {
+        "vscode": {
+            "extensions": []
+        }
+    }
+}
